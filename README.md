@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mercy177777
 - 👀 I’m interested in #$&Y%@#*(
-- 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JAVA language
 - 📫 How to reach me mercyhu317@gmail.com
 
 <!---
